@@ -1,5 +1,7 @@
+
 # this is not my code. subbu stole this code for me and gave it.
 # Akshay told me to do some changes. Hence i did this.
+
 pollutantmean <- function(directory, pollutant, id = 1:332) {
 
 	files_list <- list.files(directory, full.names = TRUE) #creates a list of files
